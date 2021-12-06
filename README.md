@@ -1,1 +1,4 @@
-# 2021_Business_Oriented_Design
+## 2021_Business_Oriented_Design
+**面向业务设计（Business-Oriented Design，简称BOD）**，是一种以业务为核心，通过促进业务架构、系统架构、组织架构三者的同构性，从而解决业务系统设计和开发复杂性问题的软件系统架构设计思想。由本次分享者胡皓基于履约建模法的核心思想，结合系统架构和软件开发的本质，以及Thoughtworks多年来的软件设计经验和思想总结而来。
+
+**履约建模法（Fulfillment Modeling，又称8X Flow）**，是一套以**业务为核心的，云原生时代的业务建模方法。用于解决以微服务、分布式事务为主导的架构风格中的业务建模问题**。由Thoughtworks中国区CTO徐昊先生从其所发明的四色建模法进一步发展而来。
